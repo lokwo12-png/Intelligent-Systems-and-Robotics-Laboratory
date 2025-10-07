@@ -31,5 +31,5 @@ Before running, ensure you have:
 
 ### 1️⃣ Clone or Copy the Project
 ```bash
-git clone https://github.com/<yourusername>/robot_demo.git
+git clone https://github.com/lokwo12-png/Intelligent-Systems-and-Robotics-Laboratory/Project1_Simple_Robot/robot_demo.git
 cd robot_demo
